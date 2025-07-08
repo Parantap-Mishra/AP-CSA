@@ -3,4 +3,7 @@ All my Learning / Practice code and my personal notes for the Advanced Placement
 
 I scored a perfect 5/5 on my Ap CSA
 
+![score](https://github.com/user-attachments/assets/f89e15b4-57e5-4dd5-a5e0-6dff7f679651)
+
+
 By Parantap Mishra, Under the MIT License.
